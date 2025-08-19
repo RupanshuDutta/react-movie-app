@@ -46,7 +46,7 @@ export interface MovieError {
 // API configuration
 export const API_CONFIG = {
   BASE_URL: "http://www.omdbapi.com/",
-  API_KEY: "39ad1701", // In production, this should come from environment variables
+  API_KEY: "39ad1701",
   DEFAULT_SEARCH: "Batman",
 } as const;
 
