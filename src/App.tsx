@@ -139,7 +139,7 @@ const App: React.FC = () => {
         onClose={handleCloseModal}
       />
     </div>
-  );
+  ); 
 };
 
 export default App;
